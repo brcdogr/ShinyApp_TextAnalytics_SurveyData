@@ -1,7 +1,7 @@
 # ShinyApp_TextAnalytics_SurveyData
 Graduate Degree Project | Text Analytics | R programming | Shiny App Design | Super Bowl Survey Data
 
-#About The Case
+# About The Case
 
 The data for this case is collected during the Natural Language Processing (NLP) simulation. 
 
